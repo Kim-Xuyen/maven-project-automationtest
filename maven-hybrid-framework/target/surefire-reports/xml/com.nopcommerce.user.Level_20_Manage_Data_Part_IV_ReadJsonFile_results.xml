@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Run on Firefox"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="45.752">
+  <properties />
+  
+  
+            <testcase name="User_02_Login" time="10.891" classname="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile" />
+                <testcase name="User_03_My_Account" time="6.127" classname="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile" />
+                <testcase name="User_01_Register" time="28.734" classname="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile" />
+      
+</testsuite>

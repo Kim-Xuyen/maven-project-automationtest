@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NopCommerce - User" parallel="false" thread-count="3">
+
+	<listeners>
+		<listener class-name="commons.MethodListener" />
+		 <!--<listener class-name="ReportConfig.ExtentTestListenerV5" />-->
+		<listener class-name="ReportConfig.AllureTestListener" />
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+  		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+
+	<parameter name="environment" value="DEV" />
+
+	<test name="Run on Chrome">
+		<parameter name="browser" value="chrome" />
+		<classes>
+			<!--Trigger Common Register run first -->
+			<!-- <class name="com.nopcommerce.common.Common_02_Register_Cookie" />-->
+			<class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile" />
+		</classes>
+	</test>
+	
+	<test name="Run on Firefox">
+		<parameter name="browser" value="firefox" />
+		<classes>
+			<!--Trigger Common Register run first -->
+			<!-- <class name="com.nopcommerce.common.Common_02_Register_Cookie" />-->
+			<class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile" />
+		</classes>
+	</test>
+
+
+</suite>

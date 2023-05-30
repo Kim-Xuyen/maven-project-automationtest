@@ -1,0 +1,156 @@
+<html>
+<head>
+<title>TestNG:  Run on Chrome</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Run on Chrome</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>3/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Thu May 25 22:29:35 ICT 2023</td>
+</tr>
+<tr><td>Total time:</td><td>104 seconds (104663 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td></td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile.User_01_Register()'><b>User_01_Register</b><br>Test class: com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile<br>Parameters: public void com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile.User_01_Register(java.lang.reflect.Method)<br/>
+<a href="#Output-699026377" onClick='toggleBox("Output-699026377", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-699026377" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-699026377">
+[2023-05-25 22:30:30,671] Register - Step 01: Navigate to 'Register' page
+<br><br/>
+[2023-05-25 22:30:41,298] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+<br><br/>
+[2023-05-25 22:30:42,529] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+<br><br/>
+[2023-05-25 22:30:44,689] Register - Step 04: Select to day of birth with value is'10'
+<br><br/>
+[2023-05-25 22:30:46,158] Register - Step 05: Select to month of birth with value is'August'
+<br><br/>
+[2023-05-25 22:30:47,525] Register - Step 06: Select to year of birth with value is'1999'
+<br><br/>
+[2023-05-25 22:30:48,545] Register - Step 07: Enter to Email textbox with value is'automation3958@fakemail.com'
+<br><br/>
+[2023-05-25 22:30:50,395] Register - Step 08: Enter to Password textbox with value is'123456'
+<br><br/>
+[2023-05-25 22:30:51,689] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+<br><br/>
+[2023-05-25 22:30:52,715] Register - Step 10: Click to 'Register' button
+<br><br/>
+[2023-05-25 22:30:55,518] Register - Step 11: Verify register success message is displayed
+<br><br/>
+[2023-05-25 22:30:56,006] Register - Step 12: Click to Continue button
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>29</td>
+<td>com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@bfc14b9</td></tr>
+<tr>
+<td title='com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile.User_02_Login()'><b>User_02_Login</b><br>Test class: com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile<br/>
+<a href="#Output-1462028250" onClick='toggleBox("Output-1462028250", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1462028250" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1462028250">
+[2023-05-25 22:31:00,313] Login - Step 01: Navigate to Login page
+<br><br/>
+[2023-05-25 22:31:03,921] Login - Step 02: Enter to Email textbox with value is'automation3958@fakemail.com'
+<br><br/>
+[2023-05-25 22:31:05,665] Login - Step 03: Enter to Password textbox with value is'123456'
+<br><br/>
+[2023-05-25 22:31:06,771] Login - Step 04: Click to Login button
+<br><br/>
+[2023-05-25 22:31:09,776] Login - Step 05: Verify 'My Account' link is displayed
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>10</td>
+<td>com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@bfc14b9</td></tr>
+<tr>
+<td title='com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile.User_03_My_Account()'><b>User_03_My_Account</b><br>Test class: com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile<br/>
+<a href="#Output-1731036016" onClick='toggleBox("Output-1731036016", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1731036016" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1731036016">
+[2023-05-25 22:31:10,482] MyAccount - Step 01: Navigate to 'My Account' page
+<br><br/>
+[2023-05-25 22:31:13,072] MyAccount - Step 02: Verify 'Custom Info' is displayed
+<br><br/>
+[2023-05-25 22:31:13,558] MyAccount - Step 03: Verify 'First Name' value is correctly
+<br><br/>
+[2023-05-25 22:31:13,869] MyAccount - Step 03: Verify 'Last Name' value is correctly
+<br><br/>
+[2023-05-25 22:31:14,245] MyAccount - Step 03: Verify 'Email' value is correctly
+<br><br/>
+</div>
+</td>
+<td></td>
+<td>4</td>
+<td>com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@bfc14b9</td></tr>
+</table><p>
+</body>
+</html>

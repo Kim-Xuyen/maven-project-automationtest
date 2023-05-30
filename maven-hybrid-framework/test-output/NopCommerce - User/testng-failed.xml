@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" name="Failed suite [NopCommerce - User]">
+  <parameter name="environment" value="DEV"/>
+  <listeners>
+    <listener class-name="commons.MethodListener"/>
+  </listeners>
+  <test thread-count="3" name="Run on Chrome(failed)">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile">
+        <methods>
+          <include name="User_03_My_Account"/>
+          <include name="User_01_Register"/>
+          <include name="User_02_Login"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="initBeforeSuite"/>
+        </methods>
+      </class> <!-- com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile -->
+    </classes>
+  </test> <!-- Run on Chrome(failed) -->
+  <test thread-count="3" name="Run on Firefox(failed)">
+    <parameter name="browser" value="firefox"/>
+    <classes>
+      <class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile">
+        <methods>
+          <include name="User_03_My_Account"/>
+          <include name="User_01_Register"/>
+          <include name="User_02_Login"/>
+          <include name="afterClass"/>
+          <include name="beforeClass"/>
+          <include name="initBeforeSuite"/>
+        </methods>
+      </class> <!-- com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile -->
+    </classes>
+  </test> <!-- Run on Firefox(failed) -->
+</suite> <!-- Failed suite [NopCommerce - User] -->

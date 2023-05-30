@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[[2023-05-25 20:46:21,325] Register - Step 01: Navigate to 'Register' page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:26,114] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:26,861] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:27,587] Register - Step 04: Select to day of birth with value is'10'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:28,320] Register - Step 05: Select to month of birth with value is'August'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:28,886] Register - Step 06: Select to year of birth with value is'1999'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:29,572] Register - Step 07: Enter to Email textbox with value is'automation4446@fakemail.com'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:30,663] Register - Step 08: Enter to Password textbox with value is'123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:31,354] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:32,061] Register - Step 10: Click to 'Register' button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:33,714] Register - Step 11: Verify register success message is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:34,031] Register - Step 12: Click to Continue button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:36,247] Login - Step 01: Navigate to Login page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:37,565] Login - Step 02: Enter to Email textbox with value is'automation4446@fakemail.com'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:38,485] Login - Step 03: Enter to Password textbox with value is'123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:39,258] Login - Step 04: Click to Login button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:41,415] Login - Step 05: Verify 'My Account' link is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:42,139] MyAccount - Step 01: Navigate to 'My Account' page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:44,094] MyAccount - Step 02: Verify 'Custom Info' is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:44,419] MyAccount - Step 03: Verify 'First Name' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:44,644] MyAccount - Step 03: Verify 'Last Name' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:44,917] MyAccount - Step 03: Verify 'Email' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:45,192] OS name = Windows 10
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:46:45,192] Driver instance name = chromedriver: chrome on windows (2b7b676d502475e8612d51a917129341)
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:13,786] Register - Step 01: Navigate to 'Register' page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:17,234] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:17,514] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:17,782] Register - Step 04: Select to day of birth with value is'10'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:18,340] Register - Step 05: Select to month of birth with value is'August'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:18,833] Register - Step 06: Select to year of birth with value is'1999'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:19,595] Register - Step 07: Enter to Email textbox with value is'automation9755@fakemail.com'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:20,408] Register - Step 08: Enter to Password textbox with value is'123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:20,794] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:21,098] Register - Step 10: Click to 'Register' button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:22,972] Register - Step 11: Verify register success message is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:23,291] Register - Step 12: Click to Continue button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:25,022] Login - Step 01: Navigate to Login page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:26,669] Login - Step 02: Enter to Email textbox with value is'automation9755@fakemail.com'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:27,588] Login - Step 03: Enter to Password textbox with value is'123456'
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:27,915] Login - Step 04: Click to Login button
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:29,394] Login - Step 05: Verify 'My Account' link is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:30,151] MyAccount - Step 01: Navigate to 'My Account' page
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:31,507] MyAccount - Step 02: Verify 'Custom Info' is displayed
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:32,757] MyAccount - Step 03: Verify 'First Name' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:32,923] MyAccount - Step 03: Verify 'Last Name' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:33,066] MyAccount - Step 03: Verify 'Email' value is correctly
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:33,258] OS name = Windows 10
+<br>]]>
+    </line>
+    <line>
+      <![CDATA[[2023-05-25 20:47:33,258] Driver instance name = firefoxdriver: firefox on windows (82622dfa-dc48-45eb-bee1-745a15851785)
+<br>]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-05-25T13:45:44Z" name="NopCommerce - User" finished-at="2023-05-25T13:47:38Z" duration-ms="113548">
+    <groups>
+    </groups>
+    <test started-at="2023-05-25T13:45:44Z" name="Run on Chrome" finished-at="2023-05-25T13:46:48Z" duration-ms="63693">
+      <class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile">
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@6cd5122d]" started-at="2023-05-25T13:45:44Z" name="beforeClass" finished-at="2023-05-25T13:46:17Z" duration-ms="32734" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="User_01_Register()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@6cd5122d]" started-at="2023-05-25T13:46:20Z" name="User_01_Register" finished-at="2023-05-25T13:46:35Z" duration-ms="15761" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:46:21,325] Register - Step 01: Navigate to 'Register' page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:26,114] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:26,861] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:27,587] Register - Step 04: Select to day of birth with value is'10'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:28,320] Register - Step 05: Select to month of birth with value is'August'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:28,886] Register - Step 06: Select to year of birth with value is'1999'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:29,572] Register - Step 07: Enter to Email textbox with value is'automation4446@fakemail.com'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:30,663] Register - Step 08: Enter to Password textbox with value is'123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:31,354] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:32,061] Register - Step 10: Click to 'Register' button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:33,714] Register - Step 11: Verify register success message is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:34,031] Register - Step 12: Click to Continue button
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_01_Register -->
+        <test-method signature="User_02_Login()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@6cd5122d]" started-at="2023-05-25T13:46:36Z" name="User_02_Login" finished-at="2023-05-25T13:46:42Z" duration-ms="5889" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:46:36,247] Login - Step 01: Navigate to Login page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:37,565] Login - Step 02: Enter to Email textbox with value is'automation4446@fakemail.com'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:38,485] Login - Step 03: Enter to Password textbox with value is'123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:39,258] Login - Step 04: Click to Login button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:41,415] Login - Step 05: Verify 'My Account' link is displayed
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_02_Login -->
+        <test-method signature="User_03_My_Account()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@6cd5122d]" started-at="2023-05-25T13:46:42Z" name="User_03_My_Account" finished-at="2023-05-25T13:46:45Z" duration-ms="3051" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:46:42,139] MyAccount - Step 01: Navigate to 'My Account' page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:44,094] MyAccount - Step 02: Verify 'Custom Info' is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:44,419] MyAccount - Step 03: Verify 'First Name' value is correctly
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:44,644] MyAccount - Step 03: Verify 'Last Name' value is correctly
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:44,917] MyAccount - Step 03: Verify 'Email' value is correctly
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_03_My_Account -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@6cd5122d]" started-at="2023-05-25T13:46:45Z" name="afterClass" finished-at="2023-05-25T13:46:48Z" duration-ms="3243" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:46:45,192] OS name = Windows 10
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:46:45,192] Driver instance name = chromedriver: chrome on windows (2b7b676d502475e8612d51a917129341)
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile -->
+    </test> <!-- Run on Chrome -->
+    <test started-at="2023-05-25T13:46:48Z" name="Run on Firefox" finished-at="2023-05-25T13:47:38Z" duration-ms="49697">
+      <class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile">
+        <test-method is-config="true" signature="initBeforeSuite()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@672b72ba]" started-at="2023-05-25T13:45:44Z" name="initBeforeSuite" finished-at="2023-05-25T13:45:44Z" duration-ms="438" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initBeforeSuite -->
+        <test-method is-config="true" signature="beforeClass(java.lang.String)[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@672b72ba]" started-at="2023-05-25T13:46:48Z" name="beforeClass" finished-at="2023-05-25T13:47:13Z" duration-ms="25155" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[firefox]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="User_01_Register()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@672b72ba]" started-at="2023-05-25T13:47:13Z" name="User_01_Register" finished-at="2023-05-25T13:47:24Z" duration-ms="11199" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:47:13,786] Register - Step 01: Navigate to 'Register' page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:17,234] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:17,514] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:17,782] Register - Step 04: Select to day of birth with value is'10'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:18,340] Register - Step 05: Select to month of birth with value is'August'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:18,833] Register - Step 06: Select to year of birth with value is'1999'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:19,595] Register - Step 07: Enter to Email textbox with value is'automation9755@fakemail.com'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:20,408] Register - Step 08: Enter to Password textbox with value is'123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:20,794] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:21,098] Register - Step 10: Click to 'Register' button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:22,972] Register - Step 11: Verify register success message is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:23,291] Register - Step 12: Click to Continue button
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_01_Register -->
+        <test-method signature="User_02_Login()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@672b72ba]" started-at="2023-05-25T13:47:24Z" name="User_02_Login" finished-at="2023-05-25T13:47:30Z" duration-ms="5134" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:47:25,022] Login - Step 01: Navigate to Login page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:26,669] Login - Step 02: Enter to Email textbox with value is'automation9755@fakemail.com'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:27,588] Login - Step 03: Enter to Password textbox with value is'123456'
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:27,915] Login - Step 04: Click to Login button
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:29,394] Login - Step 05: Verify 'My Account' link is displayed
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_02_Login -->
+        <test-method signature="User_03_My_Account()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@672b72ba]" started-at="2023-05-25T13:47:30Z" name="User_03_My_Account" finished-at="2023-05-25T13:47:33Z" duration-ms="3113" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:47:30,151] MyAccount - Step 01: Navigate to 'My Account' page
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:31,507] MyAccount - Step 02: Verify 'Custom Info' is displayed
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:32,757] MyAccount - Step 03: Verify 'First Name' value is correctly
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:32,923] MyAccount - Step 03: Verify 'Last Name' value is correctly
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:33,066] MyAccount - Step 03: Verify 'Email' value is correctly
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- User_03_My_Account -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile@672b72ba]" started-at="2023-05-25T13:47:33Z" name="afterClass" finished-at="2023-05-25T13:47:38Z" duration-ms="5036" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[[2023-05-25 20:47:33,258] OS name = Windows 10
+<br>]]>
+            </line>
+            <line>
+              <![CDATA[[2023-05-25 20:47:33,258] Driver instance name = firefoxdriver: firefox on windows (82622dfa-dc48-45eb-bee1-745a15851785)
+<br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile -->
+    </test> <!-- Run on Firefox -->
+  </suite> <!-- NopCommerce - User -->
+</testng-results>
