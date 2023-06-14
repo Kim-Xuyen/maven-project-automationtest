@@ -58,6 +58,7 @@ pageUIs\wordpress\AdminPostSearchPageUI.class
 pageObjects\sauceLab\LoginPageObject.class
 pageUIs\nopCommerce\user\RegisterPageUI.class
 pageUIs\nopCommerce\user\RewardPointPageUI.class
+commons\EnviromentList.class
 pageObjects\facebook\LoginPageObject.class
 pageUIs\wordpress\AdminLoginPageUI.class
 commons\VerificationFailures.class
@@ -77,6 +78,7 @@ pageUIs\nopCommerce\user\LoginPageUI.class
 pageObjects\wordpress\AdminLoginPO.class
 ReportConfig\ReportNGListener.class
 utilities\DataHelper.class
+commons\BaseTest$1.class
 utilities\ExcelHelper.class
 pageFactury\nopCommerce\LoginPageObject.class
 pageUIs\wordpress\AdminPostTagPageUI.class

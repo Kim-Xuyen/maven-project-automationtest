@@ -1586,3 +1586,275 @@
 [2023-05-25 22:32:40,438] MyAccount - Step 03: Verify 'Email' value is correctly
 [2023-05-25 22:32:40,800] OS name = Windows 10
 [2023-05-25 22:32:40,800] Driver instance name = firefoxdriver: firefox on windows (f344ff58-d2d1-4b5f-af9c-a45cae099781)
+[2023-05-30 22:18:44,952] Register - Step 01: Navigate to 'Register' page
+[2023-05-30 22:18:50,919] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-05-30 22:18:51,639] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-05-30 22:18:52,337] Register - Step 04: Select to day of birth with value is'10'
+[2023-05-30 22:18:52,996] Register - Step 05: Select to month of birth with value is'August'
+[2023-05-30 22:18:53,734] Register - Step 06: Select to year of birth with value is'1999'
+[2023-05-30 22:18:54,552] Register - Step 07: Enter to Email textbox with value is'automation3450@fakemail.com'
+[2023-05-30 22:18:55,843] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-05-30 22:18:56,651] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-05-30 22:18:57,410] Register - Step 10: Click to 'Register' button
+[2023-05-30 22:19:01,484] Register - Step 11: Verify register success message is displayed
+[2023-05-30 22:19:01,820] Register - Step 12: Click to Continue button
+[2023-05-30 22:19:04,806] Login - Step 01: Navigate to Login page
+[2023-05-30 22:19:06,506] Login - Step 02: Enter to Email textbox with value is'automation3450@fakemail.com'
+[2023-05-30 22:19:07,162] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-05-30 22:19:07,871] Login - Step 04: Click to Login button
+[2023-05-30 22:19:09,800] Login - Step 05: Verify 'My Account' link is displayed
+[2023-05-30 22:19:10,162] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-05-30 22:19:11,435] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-05-30 22:19:11,738] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-05-30 22:19:11,964] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-05-30 22:19:12,213] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-05-30 22:19:12,423] OS name = Windows 10
+[2023-05-30 22:19:12,424] Driver instance name = chromedriver: chrome on windows (60ef2e96adb4f39db06737944635a569)
+[2023-05-30 22:19:19,455] OS name = Windows 10
+[2023-05-30 22:19:19,458] 
+[2023-05-30 22:22:18,126] Register - Step 01: Navigate to 'Register' page
+[2023-05-30 22:22:21,826] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-05-30 22:22:22,850] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-05-30 22:22:23,679] Register - Step 04: Select to day of birth with value is'10'
+[2023-05-30 22:22:24,479] Register - Step 05: Select to month of birth with value is'August'
+[2023-05-30 22:22:25,042] Register - Step 06: Select to year of birth with value is'1999'
+[2023-05-30 22:22:25,759] Register - Step 07: Enter to Email textbox with value is'automation981@fakemail.com'
+[2023-05-30 22:22:26,887] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-05-30 22:22:27,446] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-05-30 22:22:28,172] Register - Step 10: Click to 'Register' button
+[2023-05-30 22:22:30,035] Register - Step 11: Verify register success message is displayed
+[2023-05-30 22:22:30,529] Register - Step 12: Click to Continue button
+[2023-05-30 22:22:33,305] Login - Step 01: Navigate to Login page
+[2023-05-30 22:22:35,626] Login - Step 02: Enter to Email textbox with value is'automation981@fakemail.com'
+[2023-05-30 22:22:36,481] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-05-30 22:22:37,432] Login - Step 04: Click to Login button
+[2023-05-30 22:22:39,439] Login - Step 05: Verify 'My Account' link is displayed
+[2023-05-30 22:22:39,785] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-05-30 22:22:41,024] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-05-30 22:22:41,396] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-05-30 22:22:41,622] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-05-30 22:22:41,924] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-05-30 22:22:42,143] OS name = Windows 10
+[2023-05-30 22:22:42,145] Driver instance name = chromedriver: chrome on windows (b4c92398cab50c499f8a1c7d3fd3e613)
+[2023-05-30 22:23:04,140] Register - Step 01: Navigate to 'Register' page
+[2023-05-30 22:23:08,065] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-05-30 22:23:08,390] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-05-30 22:23:08,695] Register - Step 04: Select to day of birth with value is'10'
+[2023-05-30 22:23:09,256] Register - Step 05: Select to month of birth with value is'August'
+[2023-05-30 22:23:09,757] Register - Step 06: Select to year of birth with value is'1999'
+[2023-05-30 22:23:10,198] Register - Step 07: Enter to Email textbox with value is'automation6094@fakemail.com'
+[2023-05-30 22:23:10,651] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-05-30 22:23:10,927] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-05-30 22:23:11,298] Register - Step 10: Click to 'Register' button
+[2023-05-30 22:23:12,947] Register - Step 11: Verify register success message is displayed
+[2023-05-30 22:23:13,443] Register - Step 12: Click to Continue button
+[2023-05-30 22:23:14,808] Login - Step 01: Navigate to Login page
+[2023-05-30 22:23:16,100] Login - Step 02: Enter to Email textbox with value is'automation6094@fakemail.com'
+[2023-05-30 22:23:16,605] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-05-30 22:23:16,950] Login - Step 04: Click to Login button
+[2023-05-30 22:23:18,430] Login - Step 05: Verify 'My Account' link is displayed
+[2023-05-30 22:23:18,968] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-05-30 22:23:19,961] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-05-30 22:23:20,438] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-05-30 22:23:20,603] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-05-30 22:23:20,755] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-05-30 22:23:21,031] OS name = Windows 10
+[2023-05-30 22:23:21,032] Driver instance name = firefoxdriver: firefox on windows (55b3ba01-4c54-411a-911f-85eb1143115c)
+[2023-06-06 21:52:47,438] Register - Step 01: Navigate to 'Register' page
+[2023-06-06 21:52:49,754] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-06 21:52:50,196] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-06 21:52:50,507] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-06 21:52:50,837] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-06 21:52:51,134] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-06 21:52:51,460] Register - Step 07: Enter to Email textbox with value is'automation1477@fakemail.com'
+[2023-06-06 21:52:51,902] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-06 21:52:52,180] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-06 21:52:52,471] Register - Step 10: Click to 'Register' button
+[2023-06-06 21:52:53,473] Register - Step 11: Verify register success message is displayed
+[2023-06-06 21:52:53,616] Register - Step 12: Click to Continue button
+[2023-06-06 21:52:54,559] Login - Step 01: Navigate to Login page
+[2023-06-06 21:52:55,221] Login - Step 02: Enter to Email textbox with value is'automation1477@fakemail.com'
+[2023-06-06 21:52:55,566] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-06-06 21:52:55,854] Login - Step 04: Click to Login button
+[2023-06-06 21:52:56,796] Login - Step 05: Verify 'My Account' link is displayed
+[2023-06-06 21:52:56,973] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-06 21:52:57,668] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-06 21:52:57,808] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-06 21:52:57,930] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-06 21:52:58,053] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-06 21:52:58,174] OS name = Windows 10
+[2023-06-06 21:52:58,175] Driver instance name = chromedriver: chrome on windows (7db698ef11474531453e96d0e12bf96a)
+[2023-06-06 21:53:08,570] Register - Step 01: Navigate to 'Register' page
+[2023-06-06 21:53:10,574] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-06 21:53:10,741] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-06 21:53:10,896] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-06 21:53:11,266] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-06 21:53:11,614] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-06 21:53:11,980] Register - Step 07: Enter to Email textbox with value is'automation2586@fakemail.com'
+[2023-06-06 21:53:12,217] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-06 21:53:12,333] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-06 21:53:12,456] Register - Step 10: Click to 'Register' button
+[2023-06-06 21:53:13,485] Register - Step 11: Verify register success message is displayed
+[2023-06-06 21:53:13,627] Register - Step 12: Click to Continue button
+[2023-06-06 21:53:14,488] Login - Step 01: Navigate to Login page
+[2023-06-06 21:53:15,213] Login - Step 02: Enter to Email textbox with value is'automation2586@fakemail.com'
+[2023-06-06 21:53:15,392] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-06-06 21:53:15,543] Login - Step 04: Click to Login button
+[2023-06-06 21:53:16,454] Login - Step 05: Verify 'My Account' link is displayed
+[2023-06-06 21:53:16,620] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-06 21:53:17,287] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-06 21:53:17,489] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-06 21:53:17,602] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-06 21:53:17,719] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-06 21:53:17,802] OS name = Windows 10
+[2023-06-06 21:53:17,803] Driver instance name = firefoxdriver: firefox on windows (c2188124-5144-4f6a-90ea-cebec89df353)
+[2023-06-14 22:19:01,672] OS name = Windows 10
+[2023-06-14 22:19:01,680] 
+[2023-06-14 22:22:23,171] OS name = Windows 10
+[2023-06-14 22:22:23,180] 
+[2023-06-14 22:29:38,642] OS name = Windows 10
+[2023-06-14 22:29:38,652] 
+[2023-06-14 22:48:00,685] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 22:48:02,940] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-14 22:48:03,394] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-14 22:48:03,801] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-14 22:48:04,251] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-14 22:48:04,643] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-14 22:48:04,972] Register - Step 07: Enter to Email textbox with value is'automation7902@fakemail.com'
+[2023-06-14 22:48:05,525] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-14 22:48:05,849] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-14 22:48:06,180] Register - Step 10: Click to 'Register' button
+[2023-06-14 22:48:07,346] Register - Step 11: Verify register success message is displayed
+[2023-06-14 22:48:07,494] Register - Step 12: Click to Continue button
+[2023-06-14 22:48:08,568] Login - Step 01: Navigate to Login page
+[2023-06-14 22:48:09,421] Login - Step 02: Enter to Email textbox with value is'automation7902@fakemail.com'
+[2023-06-14 22:48:09,790] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-06-14 22:48:10,096] Login - Step 04: Click to Login button
+[2023-06-14 22:48:11,293] Login - Step 05: Verify 'My Account' link is displayed
+[2023-06-14 22:48:11,459] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-14 22:48:12,335] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-14 22:48:12,501] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-14 22:48:12,622] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-14 22:48:12,748] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-14 22:48:12,876] OS name = Windows 10
+[2023-06-14 22:48:12,877] Driver instance name = chromedriver: chrome on windows (ae686c2788cc83cf1439d2122398703c)
+[2023-06-14 22:52:19,922] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 22:52:22,207] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-14 22:52:22,769] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-14 22:52:23,166] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-14 22:52:23,604] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-14 22:52:23,924] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-14 22:52:24,208] Register - Step 07: Enter to Email textbox with value is'automation615@fakemail.com'
+[2023-06-14 22:52:24,727] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-14 22:52:25,062] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-14 22:52:25,382] Register - Step 10: Click to 'Register' button
+[2023-06-14 22:52:26,506] Register - Step 11: Verify register success message is displayed
+[2023-06-14 22:52:26,649] Register - Step 12: Click to Continue button
+[2023-06-14 22:52:27,685] Login - Step 01: Navigate to Login page
+[2023-06-14 22:52:28,549] Login - Step 02: Enter to Email textbox with value is'automation615@fakemail.com'
+[2023-06-14 22:52:28,918] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-06-14 22:52:29,238] Login - Step 04: Click to Login button
+[2023-06-14 22:52:30,283] Login - Step 05: Verify 'My Account' link is displayed
+[2023-06-14 22:52:30,467] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-14 22:52:31,263] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-14 22:52:31,416] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-14 22:52:31,539] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-14 22:52:31,682] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-14 22:52:31,813] OS name = Windows 10
+[2023-06-14 22:52:31,814] Driver instance name = chromedriver: chrome on windows (c6cee126b6551aba5b2e952caccae711)
+[2023-06-14 22:55:09,980] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 22:55:41,216] Login - Step 01: Navigate to Login page
+[2023-06-14 22:57:55,292] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 22:57:57,355] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-14 22:57:57,924] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-14 22:57:58,319] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-14 22:57:58,706] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-14 22:57:59,034] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-14 22:57:59,351] Register - Step 07: Enter to Email textbox with value is'automation5526@fakemail.com'
+[2023-06-14 22:57:59,867] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-14 22:58:00,205] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-14 22:58:00,564] Register - Step 10: Click to 'Register' button
+[2023-06-14 22:58:01,907] Register - Step 11: Verify register success message is displayed
+[2023-06-14 22:58:02,293] Register - Step 12: Click to Continue button
+[2023-06-14 22:58:03,831] Login - Step 01: Navigate to Login page
+[2023-06-14 22:58:05,287] Login - Step 02: Enter to Email textbox with value is'automation5526@fakemail.com'
+[2023-06-14 22:58:05,746] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-06-14 22:58:06,133] Login - Step 04: Click to Login button
+[2023-06-14 22:58:07,425] Login - Step 05: Verify 'My Account' link is displayed
+[2023-06-14 22:58:07,663] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-14 22:58:08,589] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-14 22:58:08,922] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-14 22:58:09,040] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-14 22:58:09,202] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-14 22:58:09,355] OS name = Windows 10
+[2023-06-14 22:58:09,356] Driver instance name = chromedriver: chrome on windows (78dc0fa1a23544214607e07c48905e46)
+[2023-06-14 23:13:57,386] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 23:13:58,798] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-14 23:13:59,118] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-14 23:13:59,468] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-14 23:13:59,814] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-14 23:14:00,098] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-14 23:14:00,337] Register - Step 07: Enter to Email textbox with value is'automation1406@fakemail.com'
+[2023-06-14 23:14:00,732] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-14 23:14:01,027] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-14 23:14:01,302] Register - Step 10: Click to 'Register' button
+[2023-06-14 23:14:04,009] Register - Step 11: Verify register success message is displayed
+[2023-06-14 23:14:04,144] Register - Step 12: Click to Continue button
+[2023-06-14 23:14:05,213] Login - Step 01: Navigate to Login page
+[2023-06-14 23:14:36,194] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-14 23:14:37,626] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-14 23:14:37,800] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-14 23:14:37,934] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-14 23:14:38,042] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-14 23:14:38,156] OS name = Windows 10
+[2023-06-14 23:14:38,157] Driver instance name = chromedriver: chrome on windows (1210f9dce6af3e10919f9f514551843b)
+[2023-06-14 23:18:10,835] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 23:18:12,828] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-14 23:18:13,240] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-14 23:18:13,577] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-14 23:18:13,862] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-14 23:18:14,110] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-14 23:18:14,358] Register - Step 07: Enter to Email textbox with value is'automation1364@fakemail.com'
+[2023-06-14 23:18:14,746] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-14 23:18:15,031] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-14 23:18:15,311] Register - Step 10: Click to 'Register' button
+[2023-06-14 23:18:16,711] Register - Step 11: Verify register success message is displayed
+[2023-06-14 23:18:16,862] Register - Step 12: Click to Continue button
+[2023-06-14 23:18:18,180] Login - Step 01: Navigate to Login page
+[2023-06-14 23:18:19,178] Login - Step 02: Enter to Email textbox with value is'automation1364@fakemail.com'
+[2023-06-14 23:18:19,525] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-06-14 23:18:19,768] Login - Step 04: Click to Login button
+[2023-06-14 23:18:20,879] Login - Step 05: Verify 'My Account' link is displayed
+[2023-06-14 23:18:21,014] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-14 23:18:21,800] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-14 23:18:21,942] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-14 23:18:22,047] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-14 23:18:22,160] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-14 23:18:22,284] OS name = Windows 10
+[2023-06-14 23:18:22,285] Driver instance name = chromedriver: chrome on windows (6174a23e571190bc597a31977304a201)
+[2023-06-14 23:27:26,651] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 23:27:28,310] Register - Step 02: Enter to Firstname textbox with value is'Do Ni'
+[2023-06-14 23:27:28,689] Register - Step 03: Enter to Lastname textbox with value is'Selina'
+[2023-06-14 23:27:28,959] Register - Step 04: Select to day of birth with value is'10'
+[2023-06-14 23:27:29,272] Register - Step 05: Select to month of birth with value is'August'
+[2023-06-14 23:27:29,562] Register - Step 06: Select to year of birth with value is'1999'
+[2023-06-14 23:27:29,778] Register - Step 07: Enter to Email textbox with value is'automation8942@fakemail.com'
+[2023-06-14 23:27:30,238] Register - Step 08: Enter to Password textbox with value is'123456'
+[2023-06-14 23:27:30,474] Register - Step 09: Enter to Confirm Password textbox with value is'123456'
+[2023-06-14 23:27:30,722] Register - Step 10: Click to 'Register' button
+[2023-06-14 23:27:31,650] Register - Step 11: Verify register success message is displayed
+[2023-06-14 23:27:31,770] Register - Step 12: Click to Continue button
+[2023-06-14 23:27:32,776] Login - Step 01: Navigate to Login page
+[2023-06-14 23:27:33,425] Login - Step 02: Enter to Email textbox with value is'automation8942@fakemail.com'
+[2023-06-14 23:27:33,708] Login - Step 03: Enter to Password textbox with value is'123456'
+[2023-06-14 23:27:33,951] Login - Step 04: Click to Login button
+[2023-06-14 23:27:34,877] Login - Step 05: Verify 'My Account' link is displayed
+[2023-06-14 23:27:35,027] MyAccount - Step 01: Navigate to 'My Account' page
+[2023-06-14 23:27:35,661] MyAccount - Step 02: Verify 'Custom Info' is displayed
+[2023-06-14 23:27:35,803] MyAccount - Step 03: Verify 'First Name' value is correctly
+[2023-06-14 23:27:35,923] MyAccount - Step 03: Verify 'Last Name' value is correctly
+[2023-06-14 23:27:36,030] MyAccount - Step 03: Verify 'Email' value is correctly
+[2023-06-14 23:27:36,145] OS name = Windows 10
+[2023-06-14 23:27:36,145] Driver instance name = chromedriver: chrome on windows (f41d9db89b31b55b92fcaf26ef112eaf)
+[2023-06-14 23:28:17,852] Register - Step 01: Navigate to 'Register' page
+[2023-06-14 23:29:06,820] Register - Step 01: Navigate to 'Register' page

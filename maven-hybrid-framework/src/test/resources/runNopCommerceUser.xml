@@ -9,23 +9,14 @@
   		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
 	</listeners>
 
-	<parameter name="environment" value="DEV" />
+	<parameter name="environment" value="dev"/>
 
 	<test name="Run on Chrome">
 		<parameter name="browser" value="chrome" />
 		<classes>
 			<!--Trigger Common Register run first -->
 			<!-- <class name="com.nopcommerce.common.Common_02_Register_Cookie" />-->
-			<class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile" />
-		</classes>
-	</test>
-	
-	<test name="Run on Firefox">
-		<parameter name="browser" value="firefox" />
-		<classes>
-			<!--Trigger Common Register run first -->
-			<!-- <class name="com.nopcommerce.common.Common_02_Register_Cookie" />-->
-			<class name="com.nopcommerce.user.Level_20_Manage_Data_Part_IV_ReadJsonFile" />
+			<class name="com.nopcommerce.user.Level_21_Multiple_Enviroment_Parameter" />
 		</classes>
 	</test>
 
