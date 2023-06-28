@@ -29,6 +29,7 @@ ReportConfig\ExtentManager.class
 pageUIs\jQuery\uploadFile\BagePageJQueryUI.class
 pageObjects\nopCommerce\admin\AdminDashboardPageObject.class
 pageObjects\liveGuru\LoginPageObject.class
+utilities\Environments.class
 pageObjects\wordpress\UserPostDetailPO.class
 pageObjects\jQuery\dataTable\PageGeneratorManager.class
 pageUIs\nopCommerce\admin\AdminDashboardPageUI.class

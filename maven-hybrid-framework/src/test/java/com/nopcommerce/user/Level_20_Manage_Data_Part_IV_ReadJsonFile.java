@@ -11,7 +11,6 @@ import org.testng.annotations.Test;
 
 import com.nopcommerce.data.UserDataMapper;
 
-import ReportConfig.ExtentTestManager;
 import commons.BaseTest;
 import commons.PageGeneratorManager;
 import pageObjects.nopCommerce.user.UserCustomerInforPageObject;

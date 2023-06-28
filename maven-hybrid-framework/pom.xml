@@ -146,6 +146,14 @@
             <version>${aspectj.version}</version>
              <scope>runtime</scope>
         </dependency>
+        
+		<dependency>
+		    <groupId>org.aeonbits.owner</groupId>
+		    <artifactId>owner</artifactId>
+		    <version>1.0.12</version>
+		</dependency>
+
+
     </dependencies>
   
   	 <!-- Compiler/ Run Test -->
@@ -163,25 +171,24 @@
                 </configuration>
             </plugin>
 
-            <!-- Run test -->
-            <!-- <plugin>
+            <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-surefire-plugin</artifactId>
                 <version>2.22.2</version>
                 <configuration>
                     <suiteXmlFiles>
-                        <suiteXmlFile>environmentRunner/${environment}.xml</suiteXmlFile>
+                        <suiteXmlFile>src/test/resources/runNopCommerceUser.xml</suiteXmlFile>
                     </suiteXmlFiles>
                     
                     <argLine>
                         -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
                     </argLine>
                 </configuration>
-            </plugin>-->
+            </plugin>
         </plugins>
     </build>
     
-    <profiles>
+   <!-- <profiles>
 	    <profile>
 	        <id>DEV</id>
 	        <build>
@@ -195,7 +202,6 @@
 		                         <suiteXmlFile>environmentRunner/dev.xml</suiteXmlFile>
 		                    </suiteXmlFiles>
 	
-		                    <!-- Argument -->
 		                    <argLine>
 		                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
 		                    </argLine>
@@ -217,7 +223,6 @@
 		                         <suiteXmlFile>environmentRunner/staging.xml</suiteXmlFile>
 		                    </suiteXmlFiles>
 		                    
-		                    <!-- Argument -->
 		                    <argLine>
 		                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
 		                    </argLine>
@@ -239,7 +244,6 @@
 		                         <suiteXmlFile>environmentRunner/testing.xml</suiteXmlFile>
 		                    </suiteXmlFiles>
 		                    
-		                    <!-- Argument -->
 		                    <argLine>
 		                        -javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
 		                    </argLine>
@@ -248,7 +252,6 @@
 	        	</plugins>
 	        </build>
 	    </profile>
-    </profiles>
-    
+    </profiles> --> 
   
 </project>

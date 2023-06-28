@@ -18,6 +18,7 @@ com\nopcommerce\user\Level_03_Page_Object_01_Register.class
 com\nopcommerce\user\Level_16_Share_Data_B.class
 com\jquery\Level_10_DataTable_DataGrid.class
 com\nopcommerce\user\Level_15_ReportNG_Screenshot.class
+com\nopcommerce\user\Level_22_Multiple_Enviroment_Owner.class
 com\nopcommerce\user\Level_20_Manage_Data_Part_II.class
 com\nopcommerce\user\Level_15_Allure.class
 com\jquery\Level_11_Upload_Files.class
